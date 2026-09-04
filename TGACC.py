@@ -86,7 +86,7 @@ Button.url = custom_url_button
 # ================= CONFIGURATION =================
 API_ID = 36645562
 API_HASH = "ccad405579d80b82492abbf4a7777907"
-BOT_TOKEN = "8627528321:AAFSSdgHID0Mizwhx5hxulhIa-CErWR5Yu0" 
+BOT_TOKEN = "8881219711:AAH5FwywIwDDx3GmT69wqEG_JTInWquzShk-CErWR5Yu0" 
 ADMIN_ID = 8895089247
 
 # CHANNELS
