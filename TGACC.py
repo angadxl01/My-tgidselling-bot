@@ -488,4 +488,4 @@ async def manual_deposit_init(event, method):
 # ================= BUYING FLOW =================
 async def show_countries(event, flow, page=1):
     limit = 10
-    offset = (page - 1) *
+    offset = (page - 1) * limit
